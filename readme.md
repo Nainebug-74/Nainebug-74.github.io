@@ -7,4 +7,4 @@ This has been the most challenging of all the classes I have undertaken in 5 yea
 
 
 The link to my page is [GITHUB PAGE](https://nainebug-74.github.io/)
-The link to my DOCS folder is  [docs].(https://github.com/Nainebug-74/Nainebug-74.github.io/docs)
+The link to my docs folder is https://github.com/Nainebug-74/Nainebug-74.github.io/docs
