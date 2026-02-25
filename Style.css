@@ -7,9 +7,9 @@ body {
 }
 
 
-h3 {
+h1 {
   display: block;
-  color: white;
+  color: C0C0C0;
   padding: 8px;
   background-color: #333;
   border: 5px solid #222;
@@ -27,4 +27,5 @@ p {
   color: #4B0082;
   font-family: 'Comic Sans MS', cursive, sans-serif;
 }
+
 
