@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About </title>
+</head>
+<body>
+    <h1>A developing IT technician</h1>
+    <p>This is a simple page about who I am and what I do.</p>
+    
+    <p>Education</p>
+    <ul>
+         <li>Howard College January 2021 - December 2023 Associates Degree Information Technology</li>
+         <li> WGU March 2025 - August 2025</li>
+         <li>Texas Tech University January 2026 - Current</li>
+  </ul>
+    <p>Work history and experience .</p>
+    <ul>
+        <li>DRB System LLC 2022 - 2025</li>
+        <li>TCS under Exxonmobil 2025 - Current</li>
+        <li><a href="https://www.linkedin.com/in/barbara-montemayor" target="_blank">LinkedIn Profile</a></li>
+    </ul>
+  
+      <a href="page1.html">Barbara Montemayor</a>
+</body>
+</html>
